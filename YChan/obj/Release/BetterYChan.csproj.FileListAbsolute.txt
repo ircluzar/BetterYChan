@@ -1,0 +1,39 @@
+C:\Users\intel\Documents\Visual Studio 2015\Projects\better-ychan\YChan\bin\Release\YChan.exe.config
+C:\Users\intel\Documents\Visual Studio 2015\Projects\better-ychan\YChan\bin\Release\YChan.exe
+C:\Users\intel\Documents\Visual Studio 2015\Projects\better-ychan\YChan\bin\Release\YChan.pdb
+C:\Users\intel\Documents\Visual Studio 2015\Projects\better-ychan\YChan\obj\Release\YChan.About.resources
+C:\Users\intel\Documents\Visual Studio 2015\Projects\better-ychan\YChan\obj\Release\YChan.FirstStart.resources
+C:\Users\intel\Documents\Visual Studio 2015\Projects\better-ychan\YChan\obj\Release\YChan.frmMain.resources
+C:\Users\intel\Documents\Visual Studio 2015\Projects\better-ychan\YChan\obj\Release\YChan.Properties.Resources.resources
+C:\Users\intel\Documents\Visual Studio 2015\Projects\better-ychan\YChan\obj\Release\YChan.Settings.resources
+C:\Users\intel\Documents\Visual Studio 2015\Projects\better-ychan\YChan\obj\Release\YChan.VInf.resources
+C:\Users\intel\Documents\Visual Studio 2015\Projects\better-ychan\YChan\obj\Release\BetterYChan.csproj.GenerateResource.Cache
+C:\Users\intel\Documents\Visual Studio 2015\Projects\better-ychan\YChan\obj\Release\YChan.exe
+C:\Users\intel\Documents\Visual Studio 2015\Projects\better-ychan\YChan\obj\Release\YChan.pdb
+C:\Users\intel\Documents\Visual Studio 2015\Projects\better-ychan\YChan\obj\Release\BetterYChan.csprojResolveAssemblyReference.cache
+X:\Tools\ext-better-ychan\better-ychan\YChan\bin\Release\YChan.exe.config
+X:\Tools\ext-better-ychan\better-ychan\YChan\obj\Release\YChan.exe
+X:\Tools\ext-better-ychan\better-ychan\YChan\obj\Release\YChan.pdb
+X:\Tools\ext-better-ychan\better-ychan\YChan\bin\Release\YChan.exe
+X:\Tools\ext-better-ychan\better-ychan\YChan\bin\Release\YChan.pdb
+X:\Tools\ext-better-ychan\better-ychan\YChan\obj\Release\YChan.About.resources
+X:\Tools\ext-better-ychan\better-ychan\YChan\obj\Release\YChan.FirstStart.resources
+X:\Tools\ext-better-ychan\better-ychan\YChan\obj\Release\YChan.frmMain.resources
+X:\Tools\ext-better-ychan\better-ychan\YChan\obj\Release\YChan.Properties.Resources.resources
+X:\Tools\ext-better-ychan\better-ychan\YChan\obj\Release\YChan.Settings.resources
+X:\Tools\ext-better-ychan\better-ychan\YChan\obj\Release\YChan.VInf.resources
+X:\Tools\ext-better-ychan\better-ychan\YChan\obj\Release\BetterYChan.csproj.GenerateResource.Cache
+X:\Tools\ext-better-ychan\better-ychan\YChan\obj\Release\BetterYChan.csprojResolveAssemblyReference.cache
+C:\Users\philt\Desktop\Tools\ext-better-ychan\better-ychan\YChan\bin\Release\BetterYChan.exe.config
+C:\Users\philt\Desktop\Tools\ext-better-ychan\better-ychan\YChan\bin\Release\BetterYChan.exe
+C:\Users\philt\Desktop\Tools\ext-better-ychan\better-ychan\YChan\bin\Release\BetterYChan.pdb
+C:\Users\philt\Desktop\Tools\ext-better-ychan\better-ychan\YChan\obj\Release\BetterYChan.csprojResolveAssemblyReference.cache
+C:\Users\philt\Desktop\Tools\ext-better-ychan\better-ychan\YChan\obj\Release\YChan.About.resources
+C:\Users\philt\Desktop\Tools\ext-better-ychan\better-ychan\YChan\obj\Release\YChan.FirstStart.resources
+C:\Users\philt\Desktop\Tools\ext-better-ychan\better-ychan\YChan\obj\Release\YChan.frmMain.resources
+C:\Users\philt\Desktop\Tools\ext-better-ychan\better-ychan\YChan\obj\Release\YChan.Properties.Resources.resources
+C:\Users\philt\Desktop\Tools\ext-better-ychan\better-ychan\YChan\obj\Release\YChan.Settings.resources
+C:\Users\philt\Desktop\Tools\ext-better-ychan\better-ychan\YChan\obj\Release\YChan.VInf.resources
+C:\Users\philt\Desktop\Tools\ext-better-ychan\better-ychan\YChan\obj\Release\BetterYChan.csproj.GenerateResource.Cache
+C:\Users\philt\Desktop\Tools\ext-better-ychan\better-ychan\YChan\obj\Release\BetterYChan.exe
+C:\Users\philt\Desktop\Tools\ext-better-ychan\better-ychan\YChan\obj\Release\BetterYChan.pdb

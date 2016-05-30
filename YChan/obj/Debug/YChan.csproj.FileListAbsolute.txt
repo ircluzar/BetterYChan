@@ -1,0 +1,12 @@
+C:\Users\intel\Documents\Visual Studio 2015\Projects\better-ychan\YChan\bin\Debug\YChan.exe.config
+C:\Users\intel\Documents\Visual Studio 2015\Projects\better-ychan\YChan\bin\Debug\YChan.exe
+C:\Users\intel\Documents\Visual Studio 2015\Projects\better-ychan\YChan\bin\Debug\YChan.pdb
+C:\Users\intel\Documents\Visual Studio 2015\Projects\better-ychan\YChan\obj\Debug\YChan.About.resources
+C:\Users\intel\Documents\Visual Studio 2015\Projects\better-ychan\YChan\obj\Debug\YChan.FirstStart.resources
+C:\Users\intel\Documents\Visual Studio 2015\Projects\better-ychan\YChan\obj\Debug\YChan.frmMain.resources
+C:\Users\intel\Documents\Visual Studio 2015\Projects\better-ychan\YChan\obj\Debug\YChan.Properties.Resources.resources
+C:\Users\intel\Documents\Visual Studio 2015\Projects\better-ychan\YChan\obj\Debug\YChan.Settings.resources
+C:\Users\intel\Documents\Visual Studio 2015\Projects\better-ychan\YChan\obj\Debug\YChan.VInf.resources
+C:\Users\intel\Documents\Visual Studio 2015\Projects\better-ychan\YChan\obj\Debug\YChan.csproj.GenerateResource.Cache
+C:\Users\intel\Documents\Visual Studio 2015\Projects\better-ychan\YChan\obj\Debug\YChan.exe
+C:\Users\intel\Documents\Visual Studio 2015\Projects\better-ychan\YChan\obj\Debug\YChan.pdb
